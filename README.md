@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dhiabenarfa12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhiabenarfa12" height="30" width="40" /></a>
-<a href="https://fb.com/dhia ben arfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhia ben arfa" height="30" width="40" /></a>
-<a href="https://instagram.com/dhia___ben.arfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhia___ben.arfa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dhia ben arfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dhia ben arfa" height="30" width="40" /></a>
-<a href="https://discord.gg/dhia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dhia" height="30" width="40" /></a>
+<a href=#><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhiabenarfa12" height="30" width="40" /></a>
+<a href=#><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhia ben arfa" height="30" width="40" /></a>
+<a href=#><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhia___ben.arfa" height="30" width="40" /></a>
+<a href=#><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dhia ben arfa" height="30" width="40" /></a>
+<a href=#><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dhia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
